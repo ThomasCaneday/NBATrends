@@ -31,7 +31,7 @@ The Jupyter notebook in this repository is structured as follows:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/nba-data-analysis.git
+   git clone https://github.com/ThomasCaneday/NBATrends.git
    ```
 2. **Install the required packages:**
    ```bash
