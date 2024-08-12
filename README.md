@@ -39,7 +39,7 @@ The Jupyter notebook in this repository is structured as follows:
    ```
 3. **Run the Jupyter notebook:**
    ```bash
-   jupyter notebook nba_data_analysis.ipynb
+   jupyter notebook script.ipynb
    ```
 
 ## Results and Insights
